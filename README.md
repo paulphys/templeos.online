@@ -1,2 +1,2 @@
 # templeos.online
-Try TempleOS onnline in the browser
+Try TempleOS online in the browser
